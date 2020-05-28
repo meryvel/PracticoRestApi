@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Miguel",
+        "lastname": "De Cervantes"
+    },
+    {
+        "id": "2",
+        "name": "Gabriel",
+        "lastname": "Garcia Marquez"
+    },
+    {
+        "id": "3",
+        "name": "Antoine",
+        "lastname": "De Saint"
+    },
+    {
+        "id": "4",
+        "name": "Jane",
+        "lastname": "Austen"
+    },
+    {
+        "id": "5",
+        "name": "William",
+        "lastname": "Shakespeare"
+    },
+    {
+        "id": "6",
+        "name": "Jorge Luis",
+        "lastname": "Borges"
+    },
+    {
+        "id": "7",
+        "name": "Federico",
+        "lastname": "Garcia Lorca"
+    }
+]

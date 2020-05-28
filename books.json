@@ -1,0 +1,52 @@
+[
+   {
+       "id": "1",
+        "name ": "Hamlet",
+        "authorId": "5"
+    },
+    {
+        "id": "2",
+        "name ": "Don Quijote de la Mancha",
+        "authorId": "1"
+    },
+    {
+        "id": "3",
+        "name ": "100 Años de Soledad",
+        "authorId": "2"
+    },
+    {
+        "id": "4",
+        "name ": "Romance Gitano",
+        "authorId": "7"
+    },
+    {
+        "id": "5",
+        "name ": "El Aleph",
+        "authorId": "6"
+    },
+    {
+        "id": "6",
+        "name ": "Romeo y Julieta",
+        "authorId": "5"
+    },
+    {
+        "id": "7",
+        "name ": "Orgullo y Prejuicio",
+        "authorId": "4"
+    },
+    {
+        "id": "8",
+        "name ": "El Principito",
+        "authorId": "3"
+    },
+    {
+        "id": "9",
+        "name ": "El amor en los tiempos del cólera",
+        "authorId": "2"
+    },
+    {
+        "id": "10",
+        "name ": "Crónica de una muerte anunciada",
+        "authorId": "2"
+    }    
+]
